@@ -10,7 +10,7 @@ public class Healthcare {
   public void health() 
   {
 	  
-	  System.out.println("Hello...... good morning!!!!! india");
+	  System.out.println("Hello...... good morning!!!!!s india");
 	  
 	  
 	  
